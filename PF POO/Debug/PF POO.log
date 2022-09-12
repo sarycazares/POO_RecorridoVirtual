@@ -1,0 +1,100 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PF POO.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(49): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(55): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(57): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(58): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(63): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(65): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(71): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(74): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(170): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\vectorrr.h(180): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(48): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(203): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(204): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\geometrias.h(205): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\imagenes.h(61): warning C4101: 'e': variable local sin referencia
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\imagenes.h(80): warning C4101: 'e': variable local sin referencia
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\skydome.h(47): warning C4101: 'indice': variable local sin referencia
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\terrain.h(73): warning C4101: 'indice': variable local sin referencia
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\water.h(63): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\billboard.h(65): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\billboard.h(68): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\billboard.h(69): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(316): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(318): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(320): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(323): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(325): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(327): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(330): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(332): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(334): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(337): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(339): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(341): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(357): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(359): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(361): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(363): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(365): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(368): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(370): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(372): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(374): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(376): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(379): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(381): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(383): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(385): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(387): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(390): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(392): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(394): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(396): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(398): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(401): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(403): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(405): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(407): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(409): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(464): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(482): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(498): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(514): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(530): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(546): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(595): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(596): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(597): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(614): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(615): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(616): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(686): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(690): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\scene.h(803): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(104): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(108): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(111): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(112): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(116): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(119): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(121): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(123): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(182): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(249): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(258): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(267): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(276): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(287): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\samuel\documents\proyectos lmad\poo\proyecto poo_intento 02\proyecto poo_segundointento\pf poo\main.cpp(297): warning C4305: '-=': truncamiento de 'double' a 'float'
+  PF POO.vcxproj -> C:\Users\Samuel\Documents\Proyectos LMAD\POO\Proyecto POO_Intento 02\Proyecto POO_SegundoIntento\Debug\Proyecto POO.exe
+  PF POO.vcxproj -> C:\Users\Samuel\Documents\Proyectos LMAD\POO\Proyecto POO_Intento 02\Proyecto POO_SegundoIntento\Debug\Proyecto POO.pdb (Full PDB)
